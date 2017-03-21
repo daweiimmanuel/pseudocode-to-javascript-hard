@@ -1,3 +1,3 @@
 # pseudocode-to-javascript-hard
 
-harder case to turn pseudocodes into javascript
+harder cases to turn pseudocodes into javascript
